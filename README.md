@@ -28,6 +28,9 @@
 
   Between the mean, maximum, and minimum temperatures, the data shows that the temperatures in June and December are both high enough, in both times of year, to support the opening of the shop.  In order to offer further data to support the opening of the shop, the precipitation of both months was also evaluated and queried. 
   The results show that the amount precipitation in June and December is low and scare enough to offer many sunny days for the potentional shop to succeed.  The following images depict the summary statitics of precipitation for both months.
+  ![June_Prcp.png](Resources/June_Prcp.png)
+  ![Dec_Prcp.png](Resources/Dec_Prcp.png)
+  
   
 
   
