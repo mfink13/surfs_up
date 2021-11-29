@@ -18,7 +18,11 @@
     
   - Count 
 
+    The reported temperature counts for June were almost 200 higher than those reported for December.  Though this is a a difference to note and could seem like December has incomplete data, the odds of the summary statistics of Decembers changing with more data is low.
     
+  - Quartiles
+
+    The third key difference
 
   
 
